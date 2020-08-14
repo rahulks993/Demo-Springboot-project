@@ -1,0 +1,4 @@
+package com.jeeves.sample.enums;
+public enum ErrorTypeEnum {
+	MOBILE_LENGTH_ERROR, MOBILE_EMAIL_NOT_UNIQUE, MOBILE_NOT_UNIQUE, EMAIL_NOT_UNIQUE, NO_DATA_FOUND, UNKNOWN;
+}
